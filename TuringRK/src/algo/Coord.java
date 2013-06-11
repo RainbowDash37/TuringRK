@@ -1,7 +1,7 @@
 /** 
 * 
 * ---THIS CLASS REPLACES WORKER.JAVA--- 
-* -objects from this calls should be  - 
+* -objects from this class should be  - 
 * -called "co" or "coor"              - 
 * ------------------------------------- 
 * 
